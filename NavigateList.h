@@ -5,8 +5,8 @@
 //
 //
 
-#ifndef _____D__
-#define _____D__
+#ifndef _____NavigateList__
+#define _____NavigateList__
 
 #include <stdio.h>
 #include "PersonData.h"
